@@ -22,13 +22,8 @@ public class alunoControl {
 // Create
 
     public boolean Cadastrar(String curso, int fase, String nome, int idade) {
-// CONTROL NÃO DEVE ACESSAR DAO DIRETAMENTE.
-// Fluxo de dados entre as camadas: VIEW -> CONTROL -> MODEL -> DAO
-// O ID que será cadastrado deve vir diretamente da base de dados(DAO).
         int id = control.maiorID() + 1;
-// Criando um objeto completo de Aluno com os dados vindos de uma interface gráfica qualquer.
         aluno objeto = new aluno(curso, fase, id, nome, idade);
-// Controlador (objeto de Aluno) envia objeto completo para Aluno enviar para o DAO.
         if (control.InsertAlunoBD(objeto)) {
             return true;
         } else {

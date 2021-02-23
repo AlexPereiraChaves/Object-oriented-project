@@ -15,7 +15,6 @@ import java.util.*;
 public class alunoDAO {
 
     public static ArrayList<aluno> MinhaLista = new ArrayList<aluno>();
-// método que fornece o maior CAMPO ID dentro da nossa base de dados
 
     public static int maiorID() {
         int maiorID = 0;
