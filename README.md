@@ -1,5 +1,5 @@
 # java-programação orientada a objeto-modelo MVC
-### Projeto feito usando a IDE Netbeans
+### Projeto feito usando a IDE Netbeans 
 Projeto criado com intuito de desenvolver noções de programação orientada a objetos no padrão MVC (model, view e controller) em linguagem java.
 
 ![exemplo_edit](https://github.com/AlexPereiraChaves/Object-oriented-project/blob/main/exemplo_edit.gif)
