@@ -16,4 +16,9 @@ A aplicação fez parte da unidade curricular de Sistemas de informação da uni
 Exemplo de código:
 ![exemplo_index](https://github.com/AlexPereiraChaves/Object-oriented-project/blob/main/exemplo_control.png)
 
- 
+## Caso queira abrir o projeto no netbeans:
+1-Clique em code--> download zip
+2-abra o NetBeans. No canto esquerdo superior clique em file/import project/from zip
+3-escolha o zip baixado.
+4-projeto está pronto para rodar.
+
