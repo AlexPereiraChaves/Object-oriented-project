@@ -22,3 +22,4 @@ Exemplo de código:
 3-escolha o zip baixado.
 4-projeto está pronto para rodar.
 
+![import](https://github.com/AlexPereiraChaves/Object-oriented-project/blob/main/ex_import.png)
